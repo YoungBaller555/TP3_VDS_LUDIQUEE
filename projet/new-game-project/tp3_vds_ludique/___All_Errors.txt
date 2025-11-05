@@ -1,0 +1,7 @@
+CorrelationId: 4d6f716a-29cb-428f-86ec-fc094452a296
+UTC DateTime: 11/03/2025 14:02:34
+
+The following files/folders have not been downloaded
+0. tp3_vds_ludique/projet/new-game-project/.godot/editor/favorite_properties
+1. tp3_vds_ludique/projet/new-game-project/.godot/editor/favorites
+2. tp3_vds_ludique/projet/new-game-project/.godot/editor/favorites.Node
