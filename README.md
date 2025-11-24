@@ -5,7 +5,7 @@ tp2 programation ludique, Vasile Dominique Sulici.
 
 # - HOW TO PLAY
 
-- Récupérer toutes les capsules pour pouvoir passer a travers le portail et passer au prochain niveau.
+-            Récupérer toutes les capsules pour pouvoir passer a travers le portail et passer au prochain niveau.
 
 # - CONTROLS
 -            W - SAUTER
